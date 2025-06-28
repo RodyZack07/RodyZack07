@@ -8,6 +8,8 @@
 - ⚡**Open commis**
 - **GameDev Enjoyer**
 - **Live2D Rigger (Vtuber & Animation)**
+- **I Draw Comics (Japanese Manga Styles)**
+  
   
 
 <h3 align="left">Connect with me:</h3>
