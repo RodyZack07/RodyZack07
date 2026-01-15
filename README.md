@@ -16,7 +16,7 @@
 - **GameDev Enjoyer**
 - **Live2D Rigger (Vtuber & Animation)**
 - **I Draw Comics (Japanese Manga Styles)**
-- **Still Learning Next & Elysia**
+- **Still Learning .NET**
   
   
 
