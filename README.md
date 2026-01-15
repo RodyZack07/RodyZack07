@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodyzack07" alt="rodyzack07" /></a> </p>
 
-![Uploading gif.gif…]()
+![Image](https://github.com/user-attachments/assets/af7c4749-0610-488b-8349-92cabcf67d47)
 
 
 - ⚡**Open commission**
