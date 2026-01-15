@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodyzack07" alt="rodyzack07" /></a> </p>
 
-![Image](https://github.com/user-attachments/assets/af7c4749-0610-488b-8349-92cabcf67d47)
+![Image](https://github.com/user-attachments/assets/73b30a08-08c2-4cbc-8aa0-0ab6cd50351b)
 
 
 - ⚡**Open commission**
