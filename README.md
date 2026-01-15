@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm RodyZack</h1>
-![Image](https://github.com/user-attachments/assets/af7c4749-0610-488b-8349-92cabcf67d47)
+
 <h3 align="center">Just a beginner illustator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodyzack07&label=Profile%20views&color=0e75b6&style=flat" alt="rodyzack07" /> </p>
