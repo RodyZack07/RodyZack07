@@ -1,4 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm RodyZack</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73b30a08-08c2-4cbc-8aa0-0ab6cd50351b" alt="Commission" width="900" />
+</p>
 
 <h3 align="center">Just a beginner illustator</h3>
 
