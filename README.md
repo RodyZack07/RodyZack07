@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/73b30a08-08c2-4cbc-8aa0-0ab6cd50351b" alt="Commission" width="900" />
 </p>
 
-<h3 align="center">Just a beginner illustator</h3>
+<h3 align="center">Just a beginner illustator and rigger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodyzack07&label=Profile%20views&color=0e75b6&style=flat" alt="rodyzack07" /> </p>
 
