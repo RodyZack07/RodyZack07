@@ -1,4 +1,4 @@
-<h1 align="center">RodyZack is Heree❗❗❗👋👋</h1>
+<h1 align="center">RodyZack is Heree (≧▽≦)ゞ❗❗👋👋</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73b30a08-08c2-4cbc-8aa0-0ab6cd50351b" alt="Commission" width="900" />
 </p>
