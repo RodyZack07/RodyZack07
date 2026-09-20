@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodyzack07" alt="rodyzack07" /></a> </p>
 
-- ⚡**Open commission**
+- **Open commission (SFW/ NSFW)**
 - **GameDev Enjoyer**
 - **Live2D Rigger (Vtuber & Animation)**
 - **I Draw R18 Doujinshi**
